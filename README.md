@@ -3,7 +3,9 @@
 //meu nome é MATHEUS//
 
 -estou usando o [Alura](https://www.alura.com.br);
+
 -ainda sou iniciante;
+
 -estou aprendendo sobre programação;
 
 **Meus contatos**
